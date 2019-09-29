@@ -1,0 +1,16 @@
+@font-face {
+	font-family: 'Ezra SIL SR';
+	src: url('fonts/ezrasilsr-webfont.eot?#iefix') format('embedded-opentype'),
+	     url('fonts/ezrasilsr-webfont.woff') format('woff'), 
+	     url('fonts/ezrasilsr-webfont.ttf')  format('truetype'),
+	     url('fonts/ezrasilsr-webfont.svg#EzraSILSR') format('svg');
+    }
+    
+    .ezra {
+        font-family: 'Ezra SIL SR';
+        direction:rtl;
+        text-align: right;
+        font-weight: normal;
+        font-size: larger;
+        }
+
