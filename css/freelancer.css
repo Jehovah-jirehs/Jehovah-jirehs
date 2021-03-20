@@ -9200,7 +9200,7 @@ form .row:first-child .floating-label-form-group {
 .mySlides.img {
   width: 100%;
   max-height: 600px;
-  min-height: 450px;
+  min-height: 600px;
 }
 
 .modalPara {
