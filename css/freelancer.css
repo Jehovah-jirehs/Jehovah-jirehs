@@ -9196,11 +9196,19 @@ form .row:first-child .floating-label-form-group {
   min-width: 349px;
   max-width: 349px;
 }
-
+@media only screen and (min-width: 768px) {
 .mySlides.img {
   width: 100%;
   max-height: 600px;
   min-height: 600px;
+}
+}
+@media only screen and (max-width: 600px){
+  .mySlides.img{
+    width:100%;
+    max-height:300px;
+    min-height: 300px;
+  }
 }
 
 .modalPara {
