@@ -36,7 +36,7 @@
         "jquery.easing": "^1.4.1",
         "magnific-popup": "^1.1.0",
         "popper.js": "^1.16.1",
-        "xmlhttprequest-ssl": "^1.6.3"
+        "xmlhttprequest-ssl": "^1.6.2"
     },
     "devDependencies": {
         "browser-sync": "^2.26.14",
