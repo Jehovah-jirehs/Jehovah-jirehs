@@ -34,13 +34,15 @@
         "bootstrap": "4.3.1",
         "jquery": "^3.5.1",
         "jquery.easing": "^1.4.1",
-        "magnific-popup": "^1.1.0"
+        "magnific-popup": "^1.1.0",
+        "popper.js": "^1.16.1",
+        "xmlhttprequest-ssl": "^1.6.3"
     },
     "devDependencies": {
         "browser-sync": "^2.26.14",
         "del": "5.1.0",
         "gulp": "4.0.2",
-        "gulp-autoprefixer": "7.0.0",
+        "gulp-autoprefixer": "^8.0.0",
         "gulp-clean-css": "4.2.0",
         "gulp-header": "2.0.9",
         "gulp-plumber": "^1.2.1",
